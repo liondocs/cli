@@ -1,0 +1,23 @@
+{
+  "name": "source_commit",
+  "version": "1.0.0",
+  "description": "source_commit : Tool to display the sha.",
+  "main": "index.js",
+  "bin": {
+    "source_commit": "bin/source_commit.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "sha",
+    "terminal",
+    "translated-content"
+  ],
+  "author": "Juan Vasquez <me@juanvasquez.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
