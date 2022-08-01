@@ -17,7 +17,7 @@ npx source_commit
 ## Usage
 
 ```
-source_commit
+source_commit --from /path/to/file.md
 ```
 
 ## Discussions
