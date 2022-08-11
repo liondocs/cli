@@ -1,13 +1,15 @@
 {
   "name": "source_commit",
-  "version": "1.1.0",
+  "version": "0.0.0-development",
   "description": "source_commit : Tool to display the sha.",
   "main": "index.js",
   "bin": {
     "source_commit": "bin/source_commit.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release",
+    "commit": "cz"
   },
   "keywords": [
     "git",
@@ -19,5 +21,17 @@
   "license": "MIT",
   "dependencies": {
     "shelljs": "^0.8.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuanVqz/source_commit.git"
+  },
+  "devDependencies": {
+    "semantic-release": "^19.0.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
