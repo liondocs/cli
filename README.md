@@ -25,7 +25,6 @@ you are welcome to see what else you can do with `source_commit`
 source_commit --help
 ```
 
-
 ## Tip: Alias
 
 You can also create an alias for `source_commit` like `sc`
