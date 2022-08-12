@@ -1,4 +1,14 @@
-## [2.0.0](https://github.com/JuanVqz/source_commit/commit/f9aca6821f7d49a238019204ed5dad3d92a520ce) (2022-08-11)
+## [2.0.1](https://github.com/JuanVqz/source_commit/commit/dd32994943867c07da5c72f79644f475d1f1a48d) (2022-08-12)
+
+### Miselanious
+* **package** Update package.json license and add more data ([0de31e2](https://github.com/JuanVqz/source_commit/commit/0de31e22121de01c69c59dad13a9a5588f81db35))
+* **issue templates** Add issue templates files ([9983611](https://github.com/JuanVqz/source_commit/commit/99836119efb12d6d6371f3975b39c42e036cc915))
+* **licence** Add licence file ([e483e9a](https://github.com/JuanVqz/source_commit/commit/e483e9a37ce12584199ba7b3c50e24bc24ea766d))
+* **code_of_conduct** Add code of conduct file ([af4438c](https://github.com/JuanVqz/source_commit/commit/af4438c447e19ae6be9890a3a16ba7f156dbfe88))
+* **readme** Add gif ([5a5c6ab](https://github.com/JuanVqz/source_commit/commit/5a5c6abf6793a60af0f958dfdc352848465e8cca))
+* **packages** Add standard.js package ([c130ba5](https://github.com/JuanVqz/source_commit/commit/c130ba571d038f664f494f665f6fd2234e666037))
+
+## [2.0.0](https://github.com/JuanVqz/source_commit/commit/dd32994943867c07da5c72f79644f475d1f1a48d) (2022-08-11)
 
 ### Features
 * **sha:** Move to sha command ([b7ab474](https://github.com/JuanVqz/source_commit/commit/b7ab474751a12cf550f3ae11c4feb2af2f935a76))
