@@ -16,8 +16,13 @@
     "terminal",
     "translated-content"
   ],
-  "author": "Juan Vasquez <me@juanvasquez.dev>",
-  "license": "MIT",
+  "author": {
+    "name": "Juan Vasquez",
+    "email": "me@juanvasquez.dev",
+    "url": "https://www.juanvasquez.dev/"
+  },
+  "homepage": "https://github.com/JuanVqz/source_commit#README.md",
+  "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "shelljs": "^0.8.5"
   },
