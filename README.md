@@ -17,8 +17,24 @@ npx source_commit
 ## Usage
 
 ```
-source_commit --from /path/to/file.md
+source_commit --sha /path/to/file.md
 ```
+
+you are welcome to see what else you can do with `source_commit`
+```
+source_commit --help
+```
+
+## Tip: Alias
+
+You can also create an alias for `source_commit` like `sc`
+Just append this below line to your `~/.bashrc` or `~/.zshrc`
+
+```
+alias sc="source_commit"
+```
+
+Now you can simply use `sc --sha path/to/file.md` to show the file's SHA.
 
 ## Discussions
 
