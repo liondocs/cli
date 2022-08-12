@@ -11,7 +11,7 @@ npm i -g source_commit
 If you are using `npx` you don't have to install the package:
 
 ```
-npx source_commit
+npx source_commit --help
 ```
 
 ## Usage
