@@ -1,5 +1,7 @@
 # source_commit
 
+![source-commit-sha](https://user-images.githubusercontent.com/7331511/184377031-615b4ced-942a-4397-b35b-d9e9c53ecb8c.gif)
+
 ## Install
 
 Install the `source_commit` package globally with [npm](https://npmjs.com)
