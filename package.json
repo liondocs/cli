@@ -1,6 +1,6 @@
 {
   "name": "source_commit",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "source_commit : Tool to display the sha.",
   "main": "./lib/index.js",
   "bin": {
