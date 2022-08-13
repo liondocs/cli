@@ -1,52 +1,52 @@
-# source_commit
+# @liondocs/cli
 
-![source-commit-sha](https://user-images.githubusercontent.com/7331511/184377031-615b4ced-942a-4397-b35b-d9e9c53ecb8c.gif)
+![liondocs](https://user-images.githubusercontent.com/7331511/184377031-615b4ced-942a-4397-b35b-d9e9c53ecb8c.gif)
 
 ## Install
 
-Install the `source_commit` package globally with [npm](https://npmjs.com)
+Install the `@liondocs/cli` package globally with [npm](https://npmjs.com)
 
 ```
-npm i -g source_commit
+npm i -g @liondocs/cli
 ```
 
 If you are using `npx` you don't have to install the package:
 
 ```
-npx source_commit --help
+npx @liondocs/cli --help
 ```
 
 ## Usage
 
 ```
-source_commit --sha /path/to/file.md
+liondocs --sha /path/to/file.md
 ```
 
-you are welcome to see what else you can do with `source_commit`
+you are welcome to see what else `liondocs` can do
 ```
-source_commit --help
+liondocs --help
 ```
 
 ## Tip: Alias
 
-You can also create an alias for `source_commit` like `sc`
+You can also create an alias for `liondocs` like `docs`
 Just append this below line to your `~/.bashrc` or `~/.zshrc`
 
 ```
-alias sc="source_commit"
+alias docs="liondocs"
 ```
 
-Now you can simply use `sc --sha path/to/file.md` to show the file's SHA.
+Now you can simply use `docs --sha path/to/file.md` to show the file's SHA.
 
 ## Discussions
 
-If you have some questions about source_commit,
-please use the [Discussions Tab](https://github.com/juanvqz/source_commit/discussions)
+If you have some questions about cli,
+please use the [Discussions Tab](https://github.com/liondocs/cli/discussions)
 in the correct category that way our community can solve their questions faster.
 
 ## Contributors
 
-**source_commit** is built by this great community:
+**@liondocs/cli** is built by this great community:
 
 | <img src="https://avatars.githubusercontent.com/juanvqz?s=256" alt="juanvqz" width="128" /> |
 | :-----------------------------------------------------------------------------------------: |

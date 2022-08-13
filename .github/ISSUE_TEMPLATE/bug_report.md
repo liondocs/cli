@@ -12,7 +12,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Run 'source_commit'
+1. Run 'cli'
 2. See error
 
 **Expected behavior**

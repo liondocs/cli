@@ -6,7 +6,7 @@ describe('parser', () => {
   beforeEach(() => {
     args = [
       '/path/to/node',
-      '/bin/source_commit.js'
+      '/bin/liondocs.js'
     ]
   })
 
