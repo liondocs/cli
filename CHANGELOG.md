@@ -1,4 +1,11 @@
-## [2.0.1](https://github.com/JuanVqz/source_commit/commit/dd32994943867c07da5c72f79644f475d1f1a48d) (2022-08-12)
+## [2.0.2](https://github.com/JuanVqz/source_commit/commit/2eb05e06f68ce5465051e3e14ecca9f5772225ca) (2022-08-13)
+
+### Miselanious
+* **parser-tests** Add parser tests ([0a44e46](https://github.com/JuanVqz/source_commit/commit/0a44e46811cdf601b4735840cf030ae387631edd))
+* **use npm ci** Add package-lock.json ([9799bce](https://github.com/JuanVqz/source_commit/commit/9799bced13b99bffdaed5bdf5c537db02ded1439))
+* **tests-config** Add test config ([830b080](https://github.com/JuanVqz/source_commit/commit/830b08015d3cd0f30fd9391fb1f412a3025f3def))
+
+## [2.0.1](https://github.com/JuanVqz/source_commit/commit/94c2d2528575df55cd5acb3421fb672255373e67) (2022-08-12)
 
 ### Miselanious
 * **package** Update package.json license and add more data ([0de31e2](https://github.com/JuanVqz/source_commit/commit/0de31e22121de01c69c59dad13a9a5588f81db35))
