@@ -9,7 +9,7 @@
   "scripts": {
     "commit": "cz",
     "lint": "standard",
-    "semantic-release": "semantic-release",
+    "semantic-release": "semantic-release --branches main",
     "test": "jest"
   },
   "keywords": [
