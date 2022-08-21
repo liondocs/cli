@@ -1,6 +1,6 @@
 {
   "name": "@lion-docs/cli",
-  "version": "2.0.2",
+  "version": "3.0.2",
   "description": "liondocs cli is a command line tool that helps you to automate repetitive actions when translating documents to another language.",
   "main": "./lib/index.js",
   "bin": {

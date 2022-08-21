@@ -1,4 +1,11 @@
-## [2.0.2](https://github.com/liondocs/cli/commit/2eb05e06f68ce5465051e3e14ecca9f5772225ca) (2022-08-13)
+## [3.0.0](https://github.com/liondocs/cli/commit/fc9c6f73ca5199e921fc0915b791c48588b753af) (2022-08-20)
+
+> NOTE: Moved the code base to liondocs organization
+
+### Features
+* **rename-command** Update source_commit to liondocs ([52b461c](52b461cf2ba4881f1bfd4644d2e5f9062311e7eb))
+
+## [2.0.2](https://github.com/liondocs/cli/commit/8644c65786a20cc6a3ea72c71675aa99549599f2) (2022-08-13)
 
 ### Miselanious
 * **parser-tests** Add parser tests ([0a44e46](https://github.com/liondocs/cli/commit/0a44e46811cdf601b4735840cf030ae387631edd))
