@@ -1,7 +1,8 @@
 const {
   commandNotFoundMessage,
   helpMessage,
-  pathIsRequiredMessage
+  pathIsRequiredMessage,
+  versionMessage
 } = require('../../lib/helpers/shared')
 
 describe('commandNotFoundMessage', () => {
@@ -36,5 +37,13 @@ describe('helpMessage', () => {
 describe('pathIsRequiredMessage', () => {
   it('returns a message', () => {
     expect(pathIsRequiredMessage()).toEqual('path is required')
+  })
+})
+
+describe('versionMessage', () => {
+  it('returns the package.json version', () => {
+    const file = require('../../package.json')
+
+    expect(versionMessage()).toEqual(`v${file.version}`)
   })
 })
