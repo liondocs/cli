@@ -1,10 +1,10 @@
 {
-  "name": "source_commit",
+  "name": "@lion-docs/cli",
   "version": "2.0.2",
-  "description": "source_commit : Tool to display the sha.",
+  "description": "liondocs cli is a command line tool that helps you to automate repetitive actions when translating documents to another language.",
   "main": "./lib/index.js",
   "bin": {
-    "source_commit": "./bin/source_commit.js"
+    "liondocs": "./bin/liondocs.js"
   },
   "scripts": {
     "test": "jest",
@@ -21,7 +21,7 @@
     "email": "me@juanvasquez.dev",
     "url": "https://www.juanvasquez.dev/"
   },
-  "homepage": "https://github.com/JuanVqz/source_commit#README.md",
+  "homepage": "https://github.com/liondocs/cli#README.md",
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "shelljs": "^0.8.5"

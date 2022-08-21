@@ -8,7 +8,7 @@ describe('commandNotFoundMessage', () => {
   it('returns a message', () => {
     const expected = `
     Command Not Found, Verify Available Commands Running:
-    source_commit --help
+    liondocs --help
   `
 
     expect(commandNotFoundMessage()).toEqual(expected)
@@ -18,7 +18,7 @@ describe('commandNotFoundMessage', () => {
 describe('helpMessage', () => {
   it('returns a message', () => {
     const expected = `
-    source_commit [command] [params]
+    liondocs [command] [params]
 
     --------------------------------------------------------------------
     | Command       | Arguments        | Description                   |
