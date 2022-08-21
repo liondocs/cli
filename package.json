@@ -1,14 +1,16 @@
 {
   "name": "@lion-docs/cli",
-  "version": "3.0.2",
+  "version": "0.0.0-development",
   "description": "liondocs cli is a command line tool that helps you to automate repetitive actions when translating documents to another language.",
   "main": "./lib/index.js",
   "bin": {
     "liondocs": "./bin/liondocs.js"
   },
   "scripts": {
-    "test": "jest",
-    "lint": "standard"
+    "commit": "cz",
+    "lint": "standard",
+    "semantic-release": "semantic-release --branches main",
+    "test": "jest"
   },
   "keywords": [
     "git",
@@ -27,7 +29,9 @@
     "shelljs": "^0.8.5"
   },
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "jest": "^28.1.3",
+    "semantic-release": "^19.0.3",
     "standard": "^17.0.0"
   },
   "standard": {
@@ -41,5 +45,14 @@
       "assert",
       "expect"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liondocs/cli.git"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
