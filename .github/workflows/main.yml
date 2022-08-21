@@ -27,7 +27,7 @@ jobs:
       run: npm run test
 
   release:
-    run-on: ubu-latest
+    run-on: ubuntu-latest
     if: ${{ github.ref == 'refs/heads/main' }}
     needs: [quality]
     steps:
