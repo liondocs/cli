@@ -1,5 +1,7 @@
 # @lion-docs/cli
 
+[![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+
 ![liondocs-cli](https://user-images.githubusercontent.com/7331511/185776302-3d948535-bf32-4002-ac42-5b970c9c6f72.gif)
 
 ## Install
