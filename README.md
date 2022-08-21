@@ -1,6 +1,6 @@
 # @lion-docs/cli
 
-![liondocs](https://user-images.githubusercontent.com/7331511/184377031-615b4ced-942a-4397-b35b-d9e9c53ecb8c.gif)
+![liondocs-cli](https://user-images.githubusercontent.com/7331511/185776302-3d948535-bf32-4002-ac42-5b970c9c6f72.gif)
 
 ## Install
 
