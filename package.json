@@ -9,7 +9,7 @@
   "scripts": {
     "commit": "cz",
     "lint": "standard",
-    "semantic-release": "semantic-release --branches main",
+    "semantic-release": "semantic-release",
     "test": "jest"
   },
   "keywords": [
@@ -48,35 +48,9 @@
       "expect"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/liondocs/cli.git"
-  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  },
-  "plugins": [
-    "@semantic-release/commit-analyzer",
-    "@semantic-release/release-notes-generator",
-    [
-      "@semantic-release/changelog",
-      {
-        "changelogFile": "CHANGELOG.md"
-      }
-    ],
-    "@semantic-release/npm",
-    [
-      "@semantic-release/git",
-      {
-        "assets": [
-          "package.json",
-          "CHANGELOG.md"
-        ],
-        "message": "release(version): Release v${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
-      }
-    ],
-    "@semantic-release/github"
-  ]
+  }
 }
