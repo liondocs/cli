@@ -1,3 +1,10 @@
+## [3.1.3](https://github.com/liondocs/cli/compare/v3.1.2...v3.1.3) (2022-08-21)
+
+
+### Bug Fixes
+
+* **semantic-release:** update config to generate CHANGELOG's content ([8094038](https://github.com/liondocs/cli/commit/809403891ff4c270084d576bc71144e6189cfef1))
+
 ## [3.0.0](https://github.com/liondocs/cli/commit/fc9c6f73ca5199e921fc0915b791c48588b753af) (2022-08-20)
 
 > NOTE: Moved the code base to liondocs organization
