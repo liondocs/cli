@@ -1,3 +1,10 @@
+## [3.0.0](https://github.com/liondocs/cli/commit/2eb05e06f68ce5465051e3e14ecca9f5772225ca) (2022-08-13)
+
+> NOTE: Moved the code base to liondocs organization
+
+### Features
+* **rename-command** Update source_commit to liondocs ([52b461c](52b461cf2ba4881f1bfd4644d2e5f9062311e7eb))
+
 ## [2.0.2](https://github.com/liondocs/cli/commit/2eb05e06f68ce5465051e3e14ecca9f5772225ca) (2022-08-13)
 
 ### Miselanious
