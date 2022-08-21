@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/liondocs/cli/compare/v3.1.3...v3.2.0) (2022-08-21)
+
+
+### Features
+
+* **command:** add version command ([ff16c7b](https://github.com/liondocs/cli/commit/ff16c7b6f41e8cc7f48763fd2903b803de42e512)), closes [#30](https://github.com/liondocs/cli/issues/30)
+
 ## [3.1.3](https://github.com/liondocs/cli/compare/v3.1.2...v3.1.3) (2022-08-21)
 
 
