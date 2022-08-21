@@ -1,19 +1,19 @@
-# @liondocs/cli
+# @lion-docs/cli
 
 ![liondocs](https://user-images.githubusercontent.com/7331511/184377031-615b4ced-942a-4397-b35b-d9e9c53ecb8c.gif)
 
 ## Install
 
-Install the `@liondocs/cli` package globally with [npm](https://npmjs.com)
+Install the `@lion-docs/cli` package globally with [npm](https://npmjs.com)
 
 ```
-npm i -g @liondocs/cli
+npm i -g @lion-docs/cli
 ```
 
 If you are using `npx` you don't have to install the package:
 
 ```
-npx @liondocs/cli --help
+npx @lion-docs/cli --help
 ```
 
 ## Usage
@@ -46,7 +46,7 @@ in the correct category that way our community can solve their questions faster.
 
 ## Contributors
 
-**@liondocs/cli** is built by this great community:
+**@lion-docs/cli** is built by this great community:
 
 | <img src="https://avatars.githubusercontent.com/juanvqz?s=256" alt="juanvqz" width="128" /> |
 | :-----------------------------------------------------------------------------------------: |
