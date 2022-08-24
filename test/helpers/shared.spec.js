@@ -21,13 +21,15 @@ describe('helpMessage', () => {
     const expected = `
     liondocs [command] [params]
 
-    --------------------------------------------------------------------
-    | Command       | Arguments        | Description                   |
-    --------------------------------------------------------------------
-    | --sha or -s   | path/to/the/file | Display the sha of given file |
-    --------------------------------------------------------------------
-    | --help or -h  |                  | Display available commands    |
-    --------------------------------------------------------------------
+    -----------------------------------------------------------------------
+    | Command          | Arguments        | Description                    |
+    -----------------------------------------------------------------------
+    | --sha or -s      | path/to/the/file | Display the sha of given file  |
+    ------------------------------------------------------------------------
+    | --version or -v  |                  | Display available commands     |
+    ------------------------------------------------------------------------
+    | --help or -h     |                  | Display available commands     |
+    ------------------------------------------------------------------------
   `
 
     expect(helpMessage()).toEqual(expected)
