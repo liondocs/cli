@@ -7,7 +7,7 @@
     "liondocs": "./bin/liondocs.js"
   },
   "scripts": {
-    "commit": "cz",
+    "commit": "git-cz",
     "lint": "standard",
     "semantic-release": "semantic-release",
     "test": "jest"
