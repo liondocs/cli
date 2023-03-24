@@ -1,3 +1,10 @@
+## [3.2.2](https://github.com/liondocs/cli/compare/v3.2.1...v3.2.2) (2023-03-24)
+
+
+### Bug Fixes
+
+* **readme:** just trigger the release GitHub Action ([#75](https://github.com/liondocs/cli/issues/75)) ([bbd0f9a](https://github.com/liondocs/cli/commit/bbd0f9a54c980dcc21e1d73128aede9f28ee2b7f)), closes [#73](https://github.com/liondocs/cli/issues/73)
+
 ## [3.2.1](https://github.com/liondocs/cli/compare/v3.2.0...v3.2.1) (2023-03-24)
 
 
