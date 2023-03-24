@@ -1,3 +1,10 @@
+## [3.2.1](https://github.com/liondocs/cli/compare/v3.2.0...v3.2.1) (2023-03-24)
+
+
+### Bug Fixes
+
+* **sha:** this change fixes an issue related to duplicate the SHA ([#70](https://github.com/liondocs/cli/issues/70)) ([1c8654e](https://github.com/liondocs/cli/commit/1c8654ec695b756e630ed335efe6a10d11a08cc2)), closes [#69](https://github.com/liondocs/cli/issues/69)
+
 # [3.2.0](https://github.com/liondocs/cli/compare/v3.1.3...v3.2.0) (2022-08-21)
 
 
